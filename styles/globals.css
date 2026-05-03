@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --panel: #f7f7f7;
+  --color-teal: #1a1a1a;
+  --color-mint: #1a1a1a;
+  --color-gold: #888888;
+  --ring-focus: rgba(0, 0, 0, 0.3);
+}
+
+html {
+  background-color: var(--bg);
+}
+
+body {
+  @apply bg-brand-bg text-gray-900 antialiased;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+/* Only hide cursor on desktop — never on touch devices */
+@media (hover: hover) and (pointer: fine) {
+  body {
+    cursor: none !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    cursor: none !important;
+  }
+}
+
+::selection {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ring-focus);
+  outline-offset: 3px;
+}
+
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Utility: disable expensive animations on touch devices */
+@media (hover: none) {
+  .will-change-transform {
+    will-change: auto !important;
+  }
+
+  .animate-pulse-soft,
+  .animate-float {
+    animation: none !important;
+  }
+}
+
+.placeholder-slot {
+  border: 1px dashed rgba(0, 0, 0, 0.15);
+  background-color: rgba(0, 0, 0, 0.03);
+  color: rgba(0, 0, 0, 0.4);
+}

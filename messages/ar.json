@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "ماي لايف كوفي — قهوة مختصة في الرياض",
+    "description": "قهوة مختصة في النخيل، الرياض. تحضير دقيق وضيافة دافئة وتجربة ثنائية اللغة."
+  },
+  "common": {
+    "brandEn": "My Life Coffee",
+    "brandArShort": "ماي لايف",
+    "whatsappAria": "اطلب عبر واتساب",
+    "orderWhatsapp": "اطلب عبر واتساب",
+    "exploreMenu": "استكشف القائمة",
+    "orderNow": "اطلب الآن",
+    "locale_en": "EN",
+    "locale_ar": "عربي"
+  },
+  "nav": {
+    "menu": "القائمة",
+    "story": "القصة",
+    "loyalty": "الولاء",
+    "findUs": "موقعنا"
+  },
+  "sequence": {
+    "loading": "جاري التحميل",
+    "intro": {
+      "title": "My Life Coffee",
+      "subtitleAr": "ماي لايف كوفي",
+      "tag": "Specialty coffee, made for your life.",
+      "tagAr": "قهوة مختصة، صُنعت لحياتك",
+      "micro": "الرياض · النخيل · تأسيس 2023"
+    },
+    "bean": {
+      "title": "It starts with the bean.",
+      "titleAr": "يبدأ كل شيء من الحبة",
+      "body": "نختار حبوبًا من درجة Specialty، لأصلها وارتفاعها وطابعها. كل كوب يبدأ قبل أن يصل إليك بوقت طويل."
+    },
+    "craft": {
+      "title": "Crafted with intention.",
+      "titleAr": "مصنوعة باهتمام",
+      "line1": "استخلاص دقيق في كل مرة.",
+      "line2": "يضبطها بارستا متخصصون لدينا.",
+      "line3": "لأن القهوة الجيدة لا تحدث بالمصادفة."
+    },
+    "menuMoment": {
+      "title": "Everything you love, in one place.",
+      "titleAr": "كل ما تحبه، في مكان واحد",
+      "body": "من الإسبريسو أحادي المنشأ إلى المشروبات الموسمية والحلويات المنزلية — دائمًا يوجد سبب للعودة."
+    },
+    "cta": {
+      "title": "Your next cup is waiting.",
+      "titleAr": "كوبك القادم في انتظارك",
+      "sub": "My Life Coffee · قهوة مختصة · النخيل، الرياض",
+      "micro": "7726 التخصصي، النخيل · 050 222 2333 · info@mylifecoffee.sa"
+    }
+  },
+  "marquee": {
+    "text": "Specialty Coffee · قهوة مختصة · Riyadh · الرياض · Est. 2023 ·"
+  },
+  "menuSection": {
+    "title": "What we serve",
+    "titleAr": "ما نقدمه",
+    "categories": {
+      "drinks": {
+        "en": "Drinks",
+        "ar": "مشروبات"
+      },
+      "coffee": {
+        "en": "Coffee",
+        "ar": "قهوة"
+      },
+      "desserts": {
+        "en": "Desserts",
+        "ar": "حلويات"
+      }
+    },
+    "items": {
+      "placeholderPrice": "—"
+    }
+  },
+  "loyalty": {
+    "title": "Loyalty rewards",
+    "titleAr": "مكافآت الولاء",
+    "tierLabel": "المستوى",
+    "tier1": {
+      "nameAr": "الجائزة الأولى",
+      "title": "الجائزة الأولى",
+      "desc": "معدات قهوة مختصة"
+    },
+    "tier2": {
+      "nameAr": "الجائزة الثانية",
+      "title": "الجائزة الثانية",
+      "desc": "مشروبات مجانية لك ولثلاثة من أصدقائك"
+    },
+    "tier3": {
+      "nameAr": "الجائزة الثالثة",
+      "title": "الجائزة الثالثة",
+      "desc": "دعوة حصرية للمقهى"
+    },
+    "counterSuffix": "+"
+  },
+  "story": {
+    "title": "More than coffee",
+    "titleAr": "أكثر من مجرد قهوة",
+    "p1": "نؤمن أن القهوة المختصة طقس يومي — مدروس، صادق، وفاخر بهدوء. يضبط الباريستا كل جرعة بالعناية التي يستحقها عشاق القهوة في الرياض.",
+    "p2": "من أول طحن إلى آخر رشفة، ماي لايف كوفي مساحة للمجتمع: إضاءة دافئة، نكهات صادقة، وأكواب تستحق أن تُتناول ببطء.",
+    "photoLabel": "[ صورة المقهى ]"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "titleAr": "معرض الصور"
+  },
+  "findUs": {
+    "title": "Find us",
+    "titleAr": "موقعنا",
+    "addressLabel": "العنوان",
+    "hoursLabel": "الساعات",
+    "hoursNote": "يرجى تأكيد المواعيد مع المقهى — جدول تجريبي.",
+    "hoursPlaceholder": "السبت–الخميس · 8:00–12:00 ص · الجمعة · 2:00–12:00 ص",
+    "phoneLabel": "الجوال",
+    "emailLabel": "البريد",
+    "mapLabel": "[ خريطة جوجل — 7726 التخصصي، النخيل ]",
+    "website": "mylifecoffee.sa"
+  },
+  "footer": {
+    "rights": "© 2026 My Life Coffee · ماي لايف كوفي · الرياض، المملكة العربية السعودية",
+    "follow": "تابعنا"
+  },
+  "schema": {
+    "priceRange": "$$"
+  }
+}

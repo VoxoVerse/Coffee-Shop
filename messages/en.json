@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "My Life Coffee — Specialty Coffee in Riyadh",
+    "description": "Specialty coffee in An Nakhil, Riyadh. Precision brewing, warm hospitality, bilingual experience."
+  },
+  "common": {
+    "brandEn": "My Life Coffee",
+    "brandArShort": "ماي لايف",
+    "whatsappAria": "Order on WhatsApp",
+    "orderWhatsapp": "Order on WhatsApp",
+    "exploreMenu": "Explore Menu",
+    "orderNow": "Order Now",
+    "locale_en": "EN",
+    "locale_ar": "عربي"
+  },
+  "nav": {
+    "menu": "Menu",
+    "story": "Story",
+    "loyalty": "Loyalty",
+    "findUs": "Find Us"
+  },
+  "sequence": {
+    "loading": "Loading experience",
+    "intro": {
+      "title": "My Life Coffee",
+      "subtitleAr": "ماي لايف كوفي",
+      "tag": "Specialty coffee, made for your life.",
+      "tagAr": "قهوة مختصة، صُنعت لحياتك",
+      "micro": "Riyadh · An Nakhil · Est. 2023"
+    },
+    "bean": {
+      "title": "It starts with the bean.",
+      "titleAr": "يبدأ كل شيء من الحبة",
+      "body": "We source only specialty-grade beans, selected for their origin, altitude, and character. Every cup begins long before it reaches you."
+    },
+    "craft": {
+      "title": "Crafted with intention.",
+      "titleAr": "مصنوعة باهتمام",
+      "line1": "Precise extraction, every time.",
+      "line2": "Dialed in by our specialty-trained baristas.",
+      "line3": "Because good coffee is never an accident."
+    },
+    "menuMoment": {
+      "title": "Everything you love, in one place.",
+      "titleAr": "كل ما تحبه، في مكان واحد",
+      "body": "From single-origin espresso to handcrafted seasonal drinks and house-made desserts — there is always a reason to come back."
+    },
+    "cta": {
+      "title": "Your next cup is waiting.",
+      "titleAr": "كوبك القادم في انتظارك",
+      "sub": "My Life Coffee · Specialty coffee · An Nakhil, Riyadh",
+      "micro": "7726 التخصصي، An Nakhil · 050 222 2333 · info@mylifecoffee.sa"
+    }
+  },
+  "marquee": {
+    "text": "Specialty Coffee · قهوة مختصة · Riyadh · الرياض · Est. 2023 ·"
+  },
+  "menuSection": {
+    "title": "What we serve",
+    "titleAr": "ما نقدمه",
+    "categories": {
+      "drinks": {
+        "en": "Drinks",
+        "ar": "مشروبات"
+      },
+      "coffee": {
+        "en": "Coffee",
+        "ar": "قهوة"
+      },
+      "desserts": {
+        "en": "Desserts",
+        "ar": "حلويات"
+      }
+    },
+    "items": {
+      "placeholderPrice": "—"
+    }
+  },
+  "loyalty": {
+    "title": "Loyalty rewards",
+    "titleAr": "مكافآت الولاء",
+    "tierLabel": "Tier",
+    "tier1": {
+      "nameAr": "الجائزة الأولى",
+      "title": "First prize",
+      "desc": "Specialty coffee equipment"
+    },
+    "tier2": {
+      "nameAr": "الجائزة الثانية",
+      "title": "Second prize",
+      "desc": "Free drinks for you and three friends"
+    },
+    "tier3": {
+      "nameAr": "الجائزة الثالثة",
+      "title": "Third prize",
+      "desc": "Exclusive café invite"
+    },
+    "counterSuffix": "+"
+  },
+  "story": {
+    "title": "More than coffee",
+    "titleAr": "أكثر من مجرد قهوة",
+    "p1": "We believe specialty coffee is a daily ritual — measured, honest, and quietly luxurious. Our baristas dial in every shot with the care Riyadh’s coffee lovers deserve.",
+    "p2": "From the first grind to the last sip, My Life Coffee is a space made for community: warm light, honest flavors, and cups worth slowing down for.",
+    "photoLabel": "[ Cafe photo ]"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "titleAr": "معرض الصور"
+  },
+  "findUs": {
+    "title": "Find us",
+    "titleAr": "موقعنا",
+    "addressLabel": "Address",
+    "hoursLabel": "Hours",
+    "hoursNote": "Confirm times with the café — placeholder schedule.",
+    "hoursPlaceholder": "Sat–Thu · 8:00–12:00 AM · Fri · 2:00–12:00 AM",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "mapLabel": "[ Google Map — 7726 التخصصي، An Nakhil ]",
+    "website": "mylifecoffee.sa"
+  },
+  "footer": {
+    "rights": "© 2026 My Life Coffee · ماي لايف كوفي · Riyadh, Saudi Arabia",
+    "follow": "Follow"
+  },
+  "schema": {
+    "priceRange": "$$"
+  }
+}
